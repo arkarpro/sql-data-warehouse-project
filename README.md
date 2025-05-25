@@ -113,10 +113,27 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About this project
 
-Hi visitors, I am learning a fully datawarehouse stracture from Barra **Data With Baraa**. So this project is just practice with material of Barra.
+## 🏋️ Practice & Learning Journey
 
-Let's stay in touch! Feel free to connect with me on the following platform:
+This project represents **1 month of hands-on practice** building a professional data warehouse from scratch. Key learnings include:
 
-[![LinkedIn](https://www.linkedin.com/in/arkar-linn-datapro/)
+- **Iterative Development**: Went through multiple cycles of schema design → implementation → optimization
+- **Real-world Challenges**: Solved actual data quality issues and performance bottlenecks
+- **Best Practices**: Applied industry standards like Medallion Architecture and star schema modeling
+- **Tool Mastery**: Gained proficiency in SQL Server, SSMS, and data modeling tools
+
+The project was developed following tutorials from **[Data With Baraa](https://youtube.com/@datawithbaraa)** with additional custom implementations to deepen understanding.
+
+---
+
+## 🌟 Connect With Me
+
+I'm passionate about data engineering and always open to discussions about data warehousing, ETL, and analytics!
+
+📫 **Let's connect:**
+- [LinkedIn](https://www.linkedin.com/in/arkar-linn-datapro/)
+- [GitHub](https://github.com/arkarpro)
+- [Facebook](https://www.facebook.com/arkar.linn.ceo/)
+
+💡 **Feedback welcome!** If you have suggestions or questions about this project, feel free to reach out.
